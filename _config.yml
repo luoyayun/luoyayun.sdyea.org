@@ -1,28 +1,13 @@
-url: http://www.seohzz.com
+url: http://www.luoyayun.com
 
-title: Select Web
+title: 罗雅匀-微博
 
-keywords: 顺德SEO,顺德网站建设,顺德网站推广,顺德网络营销
+keywords: 罗雅匀
 
-description: Select Web是分享顺德SEO、网站建设、网站推广和网络营销的博客，为企业提供专业的SEO、网站建设、网站推广和网络营销顾问服务。
+description: 博主今年芳龄19，顺德本地人，平时爱好吃喝玩乐
 
 relative_permalinks: false
 
-contacts: 黄生
-
-tel: 13790019668
-
-assets:
-  dirname: assets
-  baseurl: /assets/
-  sources:
-    - _assets/js
-    - _assets/css
-  js_compressor: uglifier
-  css_compressor: sass
-  cache: true
-  cache_assets: true
-  gzip: []
 
 exclude:
   - README.md

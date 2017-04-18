@@ -1,14 +1,12 @@
-url: http://www.luoyayun.com
+url: http://www.sdyea.org
 
-title: 罗雅匀-微博
+title: Zack博客
 
-keywords: 罗雅匀
+keywords: Zack博客
 
-description: 博主今年芳龄19，顺德本地人，平时爱好吃喝玩乐
+description: Zack博客
 
 relative_permalinks: false
 
-
 exclude:
   - README.md
-
